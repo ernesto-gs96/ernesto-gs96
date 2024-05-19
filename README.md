@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Next.js and Spring boot**
 
-- 👨‍💻 All of my projects are available at [ernestogs.vercel.app](ernestogs.vercel.app)
+- 👨‍💻 All of my projects are available at [https://ernestogs.vercel.app/](https://ernestogs.vercel.app/)
 
 - 📫 How to reach me **ernesto_gs96@outlook.com**
 
-- 📄 Know about my experiences [ernestogs.vercel.app/resume](ernestogs.vercel.app/resume)
+- 📄 Know about my experiences [https://ernestogs.vercel.app/resume](https://ernestogs.vercel.app/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
